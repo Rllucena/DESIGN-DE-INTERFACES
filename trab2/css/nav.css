@@ -1,0 +1,16 @@
+
+  nav{
+  width:10%;
+  height:99%;
+  background-color:rgb(204, 44, 71);
+  float:left;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 1%;
+    padding: 1px;
+
+  }
+
+  

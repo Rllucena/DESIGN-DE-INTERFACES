@@ -1,0 +1,45 @@
+
+H1 {color: #000000c7 }
+header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c63;
+  color: white;
+  font-size: 15px;
+}
+
+nav {color: blue}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav {
+    overflow: hidden;
+    background-color: #666666;
+    position: fixed;
+    top: 10;
+    width: 10%;
+    height: 100%;
+  }
+  
+  nav {
+    float: left;
+    display: block;
+    color: #eeeeee;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+  main {
+    overflow: hidden;
+    background-color: #0d19bee1;
+    top: 100;
+    left: 10%;
+    width: 90%;
+
+  }
+  

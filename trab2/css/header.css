@@ -1,0 +1,15 @@
+
+H1 {color: #000000c7 }
+header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c63;
+  color: white;
+  font-size: 15px;
+}
+
+#header{
+  width:800px;
+  height:200px;
+  background-color:yellow;
+  }
